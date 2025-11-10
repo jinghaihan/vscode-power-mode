@@ -2,7 +2,7 @@
   "publisher": "octohash",
   "name": "powermode-plus",
   "displayName": "Power Mode Plus",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "private": true,
   "packageManager": "pnpm@10.20.0",
   "description": "Your code is powerful, unleash it!",
