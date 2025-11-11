@@ -4,7 +4,7 @@
 
 <h1 align="center">Power Mode Plus <sup>VS Code</sup></h1>
 
-<a href="https://marketplace.visualstudio.com/items?itemName=octohash.power-mode" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/v/octohash.power-mode.svg?color=eee&amp;label=VS%20Code%20Marketplace&logo=visual-studio-code" alt="Visual Studio Marketplace Version" /></a>
+<a href="https://marketplace.visualstudio.com/items?itemName=octohash.powermode-plus" target="__blank"><img src="https://img.shields.io/visual-studio-marketplace/v/octohash.powermode-plus.svg?color=eee&amp;label=VS%20Code%20Marketplace&logo=visual-studio-code" alt="Visual Studio Marketplace Version" /></a>
 <a href="https://kermanx.github.io/reactive-vscode/" target="__blank"><img src="https://img.shields.io/badge/made_with-reactive--vscode-%23007ACC?style=flat&labelColor=%23229863"  alt="Made with reactive-vscode" /></a>
 
 > [!IMPORTANT]
@@ -71,8 +71,8 @@ For a complete VSCode setup example with custom CSS and JS configurations, you c
 
 Search for **"power mode plus"** in your editor's extension marketplace:
 
-- [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=octohash.power-mode)
-- [Open VSX Registry](https://open-vsx.org/) (for VS Code forks)
+- [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=octohash.powermode-plus)
+- [Open VSX Registry](https://open-vsx.org/extension/octohash/powermode-plus) (for VS Code forks)
 - [GitHub Releases](https://github.com/jinghaihan/vscode-power-mode/releases) (download `.vsix` file)
 
 ## Explosions
